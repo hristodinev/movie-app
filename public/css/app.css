@@ -500,6 +500,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .-mt-px {
   margin-top: -1px;
 }
+.ml-16 {
+  margin-left: 4rem;
+}
 .flex {
   display: flex;
 }
